@@ -1,0 +1,112 @@
+{
+  "nome": "Roda Livre",
+  "clientes": [
+    {
+      "pessoa": {
+        "nome": "Maria Silva",
+        "cpf": "12345678900"
+      },
+      "cnh": "123456789",
+      "locacoes": []
+    },
+    {
+      "pessoa": {
+        "nome": "Carlos Santos",
+        "cpf": "11122233344"
+      },
+      "cnh": "987654321",
+      "locacoes": []
+    }
+  ],
+  "funcionarios": [
+    {
+      "pessoa": {
+        "nome": "João Souza",
+        "cpf": "98765432100"
+      },
+      "cargo": "Gerente"
+    }
+  ],
+  "veiculos": [
+    {
+      "placa": "ABC1234",
+      "modelo": "Toyota Corolla",
+      "categoria": "Economico",
+      "status": {
+        "Alugado": "CLIENTE"
+      }
+    },
+    {
+      "placa": "DEF5678",
+      "modelo": "Jeep Compass",
+      "categoria": "Suv",
+      "status": {
+        "Alugado": "CLIENTE"
+      }
+    },
+    {
+      "placa": "GHI9012",
+      "modelo": "BMW Série 3",
+      "categoria": "Luxo",
+      "status": {
+        "Alugado": "CLIENTE"
+      }
+    }
+  ],
+  "locacoes": [
+    {
+      "placa": "ABC1234",
+      "dias": 5,
+      "preco_diario": 120.0,
+      "data": "2026-06-20"
+    },
+    {
+      "placa": "DEF5678",
+      "dias": 3,
+      "preco_diario": 180.0,
+      "data": "2026-06-25"
+    },
+    {
+      "placa": "GHI9012",
+      "dias": 2,
+      "preco_diario": 300.0,
+      "data": "2026-06-28"
+    },
+    {
+      "placa": "ABC1234",
+      "dias": 5,
+      "preco_diario": 120.0,
+      "data": "2026-06-20"
+    },
+    {
+      "placa": "DEF5678",
+      "dias": 3,
+      "preco_diario": 180.0,
+      "data": "2026-06-25"
+    },
+    {
+      "placa": "GHI9012",
+      "dias": 2,
+      "preco_diario": 300.0,
+      "data": "2026-06-28"
+    },
+    {
+      "placa": "ABC1234",
+      "dias": 5,
+      "preco_diario": 120.0,
+      "data": "2026-06-20"
+    },
+    {
+      "placa": "DEF5678",
+      "dias": 3,
+      "preco_diario": 180.0,
+      "data": "2026-06-25"
+    },
+    {
+      "placa": "GHI9012",
+      "dias": 2,
+      "preco_diario": 300.0,
+      "data": "2026-06-28"
+    }
+  ]
+}
